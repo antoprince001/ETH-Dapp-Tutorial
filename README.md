@@ -1,4 +1,9 @@
-# Pet Shop Truffle Box
+# DAPP Tutorial
+
+Built using the following tutorial 
+
+https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
+
 
 This box has all you need to get started with our [Pet Shop tutorial](http://truffleframework.com/tutorial).
 
